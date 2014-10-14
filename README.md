@@ -1,4 +1,4 @@
-![totallynuclear.club](http://i.imgur.com/ozSVxDS.png)
+totallynuclear.club
 ===================
 
 This is a general repository for issues related specifically to [totallynuclear.club](http://totallynuclear.club/).
