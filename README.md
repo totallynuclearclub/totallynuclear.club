@@ -1,6 +1,6 @@
-totallynuclear.club
+![totallynuclear.club](http://i.imgur.com/ozSVxDS.png)
 ===================
 
-This is a general repository for issues related specifically to the totallynuclear.club server.
+This is a general repository for issues related specifically to [totallynuclear.club](http://totallynuclear.club/).
 
-To find general resources and tools for running Unix servers for social purposes like http://tilde.club or http://totallynuclear.club, check out https://github.com/tildeclub.
+To find general resources and tools for running Unix servers for social purposes like http://tilde.club or http://totallynuclear.club, check out [@tildeclub](https://github.com/tildeclub/) and [@tildecabal](https://github.com/tildecabal) as well as our [scripts repository](https://github.com/totallynuclearclub/scripts).
